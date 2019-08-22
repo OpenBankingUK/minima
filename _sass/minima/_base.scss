@@ -179,7 +179,7 @@ pre {
   max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
   max-width:         calc(#{$content-width} - (#{$spacing-unit}));
   margin-right: 10px;
-  margin-left: auto;
+  margin-left: 10px;
   padding-right: $spacing-unit / 2;
   padding-left: $spacing-unit / 2;
   @extend %clearfix;
